@@ -1,0 +1,3 @@
+In main_synthetic.py, you must provide the parameters under "Settings: required". For example, if you run
+main_synthetic.py as it is, it will generate ActiSiamese's results in the “exps” folder (to be created),
+as in Fig. 7b. You can then use the function provided in “plot.py” to plot the results.
