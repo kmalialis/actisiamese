@@ -12,7 +12,7 @@ If you have found our paper and / or part of our code useful, please cite our wo
 - K. Malialis, C. G. Panayiotou, M. M. Polycarpou, Nonstationary data stream classification with online active learning and siamese neural networks, Neurocomputing, Volume 512, Pages 235-252, 2022, doi: 10.1016/j.neucom.2022.09.065.
 
 # Instructions
-Please check the “instructions.txt” file.
+Python 3.7. Please also check the “instructions.txt” file.
 
 # Requirements
 Please check the “requirements.txt” file for the necessary libraries and packages.
